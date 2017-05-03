@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">API Exercise</string>
-    <string name="app_name2">API Exercise2</string>
+    <string name="message">My Message</string>
 </resources>
